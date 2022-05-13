@@ -21,5 +21,10 @@
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-prettier": "^4.0.0",
     "prettier": "2.6.0"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "got": "^12.0.4",
+    "jsdom": "^19.0.0"
   }
 }
